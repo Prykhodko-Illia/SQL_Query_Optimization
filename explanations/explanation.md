@@ -3,7 +3,7 @@
 ### Data was found on Kaggle
 This is the link for the dataset: [Bike Sales Data](https://www.kaggle.com/datasets/jayavarman/bike-sales-data-of-100k)\
 Then I manually wrote properties for creating table (look [creating.sql](../query_versions/creating.sql) file) \
-File content importing was made through DBeaver built-in tool:
+File content importing was made through DBeaver built-in tool:\
 ![img.png](img.png)
 
 ## Original query
